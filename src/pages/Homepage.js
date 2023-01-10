@@ -1,6 +1,8 @@
+import DropdownPage from "./DropdownPage";
+
 function Homepage() {
     return <div>
-        Homepage
+        <DropdownPage />
     </div>
 };
 
