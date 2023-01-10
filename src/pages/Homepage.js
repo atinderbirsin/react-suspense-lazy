@@ -1,7 +1,7 @@
 import DropdownPage from "./DropdownPage";
 
 function Homepage() {
-    return <div>
+    return <div className="h-full">
         <DropdownPage />
     </div>
 };
